@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ7692006PW
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=1.1
+Released=2018-08-22 06:55:41
+Downloaded=2026-06-26 10:04:13
+3D=Y

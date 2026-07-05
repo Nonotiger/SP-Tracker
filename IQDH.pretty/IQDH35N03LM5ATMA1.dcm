@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IQDH35N03LM5ATMA1
+D MOSFETs IFX FET 15V-30V
+K
+F https://www.infineon.com/assets/row/public/documents/24/49/infineon-iqdh35n03lm5-datasheet-en.pdf
+$ENDCMP
+#
+#End Doc Library

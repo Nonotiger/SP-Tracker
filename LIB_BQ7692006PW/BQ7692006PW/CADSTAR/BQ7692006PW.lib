@@ -1,0 +1,16 @@
+.BQ7692006PW :1 ;3 to 5-Series Cell Li-Ion and Li-Phosphate Battery Monitor (bq76940 Family)
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="DSG" 2="CHG" 3="VSS" 4="SDA" 5="SCL" 6="TS1" 7="CAP1" 8="REGOUT" 9="REGSRC" 10="BAT" 11="NC" 12="VC5" 13="VC4" 14="VC3" 15="VC2" 16="VC1" 17="VC0" 18="SRP" 19="SRN" 20="ALERT"
+*MXP 20
+*DFN BQ7692006PW
+~!Mouser Part Number (595-BQ7692006PW)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ7692006PW?qs=MJut%252BdqOEgjXPi0Ty9wSKA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ7692006PW)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/bq76920.pdf)
+~!Height (1.2mm)
+~!3D_Model (BQ7692006PW)
+BQ7692006PW
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 
