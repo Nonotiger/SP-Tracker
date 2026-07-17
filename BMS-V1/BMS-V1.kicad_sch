@@ -2826,6 +2826,12 @@
 		(uuid "7624f59f-def8-4363-9b7e-5ee88fa75e66")
 	)
 	(junction
+		(at 209.55 37.465)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8010e229-3fa8-4bf7-9a82-24e426df24fd")
+	)
+	(junction
 		(at 182.245 70.485)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2874,12 +2880,6 @@
 		(uuid "bc107612-38a3-4a9c-b5be-8668ad936ca3")
 	)
 	(junction
-		(at 250.19 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bfc6afa5-0d68-4bd5-81e2-c263f409bd0e")
-	)
-	(junction
 		(at 238.76 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2910,6 +2910,12 @@
 		(uuid "ea0cc9a9-db8b-438e-8346-b9f1a805701b")
 	)
 	(junction
+		(at 229.87 38.735)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0a0a16d-4dd4-4bc1-b0e8-711200ec9121")
+	)
+	(junction
 		(at 214.63 130.175)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2922,7 +2928,7 @@
 		(uuid "f889c8c4-df4a-4466-b51a-e500fdce698b")
 	)
 	(junction
-		(at 250.19 86.36)
+		(at 227.33 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd812de1-53b6-4216-9881-031e6586d482")
@@ -2949,7 +2955,7 @@
 	)
 	(wire
 		(pts
-			(xy 254.635 93.98) (xy 254.635 95.885)
+			(xy 231.775 95.25) (xy 231.775 97.155)
 		)
 		(stroke
 			(width 0)
@@ -2996,6 +3002,16 @@
 			(type default)
 		)
 		(uuid "0b430d30-29bc-4296-9873-ba61f50884c8")
+	)
+	(wire
+		(pts
+			(xy 209.55 34.925) (xy 209.55 37.465)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e585530-3a34-4c2a-b4bd-ff29177d0351")
 	)
 	(wire
 		(pts
@@ -3059,7 +3075,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 114.935) (xy 217.17 86.36)
+			(xy 217.17 114.935) (xy 217.17 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3169,7 +3185,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 86.36) (xy 250.19 86.36)
+			(xy 228.6 87.63) (xy 227.33 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3289,7 +3305,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 92.075) (xy 250.19 93.98)
+			(xy 227.33 93.345) (xy 227.33 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3389,6 +3405,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 38.735) (xy 226.06 38.735)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f696706-928d-4968-8e8c-ada790b9bd04")
+	)
+	(wire
+		(pts
 			(xy 217.17 114.935) (xy 198.755 114.935)
 		)
 		(stroke
@@ -3409,7 +3435,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 86.995) (xy 250.19 86.36)
+			(xy 227.33 88.265) (xy 227.33 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3436,16 +3462,6 @@
 			(type default)
 		)
 		(uuid "5ad53a15-799d-42bf-9d5d-519e346ea17c")
-	)
-	(wire
-		(pts
-			(xy 250.19 99.06) (xy 243.205 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b260f13-119c-4d95-abd4-c5e718c66763")
 	)
 	(wire
 		(pts
@@ -3479,7 +3495,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 40.005) (xy 229.87 36.83)
+			(xy 229.87 40.005) (xy 229.87 38.735)
 		)
 		(stroke
 			(width 0)
@@ -3569,7 +3585,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 86.36) (xy 250.19 86.36)
+			(xy 217.17 87.63) (xy 227.33 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3829,7 +3845,17 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 77.47) (xy 251.46 79.375)
+			(xy 226.06 34.925) (xy 226.06 38.735)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a51ca043-f306-42d6-8ff3-ecdcc1be7a9d")
+	)
+	(wire
+		(pts
+			(xy 228.6 79.375) (xy 228.6 80.645)
 		)
 		(stroke
 			(width 0)
@@ -3919,16 +3945,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 99.06) (xy 250.19 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7b8488f-a9a7-4380-b55b-0667e5da4dbf")
-	)
-	(wire
-		(pts
 			(xy 175.895 50.165) (xy 175.895 55.245)
 		)
 		(stroke
@@ -3979,7 +3995,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 93.98) (xy 254.635 93.98)
+			(xy 227.33 95.25) (xy 231.775 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4039,6 +4055,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 38.735) (xy 229.87 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb48d23-4fc4-40f0-a638-b42a00b01692")
+	)
+	(wire
+		(pts
 			(xy 217.17 50.165) (xy 222.25 50.165)
 		)
 		(stroke
@@ -4049,7 +4075,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 84.455) (xy 251.46 86.36)
+			(xy 228.6 85.725) (xy 228.6 87.63)
 		)
 		(stroke
 			(width 0)
@@ -4259,16 +4285,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.205 104.14) (xy 243.205 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6524205-b090-475d-9044-e7b4dd608763")
-	)
-	(wire
-		(pts
 			(xy 229.87 30.48) (xy 229.87 28.575)
 		)
 		(stroke
@@ -4316,6 +4332,54 @@
 			(type default)
 		)
 		(uuid "fea85ebf-61f2-4d6d-9e9f-d8e797c8cd65")
+	)
+	(global_label "CHG"
+		(shape input)
+		(at 226.06 34.925 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05a03cec-cf0b-480e-8092-097e845b78a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.06 28.0693 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DSG"
+		(shape input)
+		(at 209.55 34.925 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13537c10-1af8-474a-8e63-fb00034f4411")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.55 28.1903 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(global_label "Cell3"
 		(shape input)
@@ -4616,7 +4680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0724de4e-7bae-4d7d-9808-6bf0fd9b59f3")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR05"
 			(at 132.715 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4676,7 +4740,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR033")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -4694,7 +4758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09e5a64e-b9aa-403d-a5af-be334b1dd970")
-		(property "Reference" "R13"
+		(property "Reference" "R5"
 			(at 187.325 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4756,7 +4820,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R13")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4773,7 +4837,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1272515a-1b45-4863-ba56-d619b15ddb1a")
-		(property "Reference" "C27"
+		(property "Reference" "C6"
 			(at 192.405 98.425 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4837,7 +4901,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C27")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -4875,7 +4939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IDQH:IQDH35N03LM5ATMA1"
+		(property "Footprint" "Footprints:IFX-PG-TTFN-9-2-V"
 			(at 212.09 45.085 0)
 			(hide yes)
 			(show_name no)
@@ -4956,7 +5020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21143422-4d6d-45d1-b3a6-dd1d70be0786")
-		(property "Reference" "R16"
+		(property "Reference" "R12"
 			(at 232.41 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5020,7 +5084,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R16")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -5028,7 +5092,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 254.635 95.885 0)
+		(at 231.775 97.155 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5039,8 +5103,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "217a6993-57da-408e-8f00-6220475ec982")
-		(property "Reference" "#PWR025"
-			(at 254.635 102.235 0)
+		(property "Reference" "#PWR016"
+			(at 231.775 103.505 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5051,7 +5115,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254.635 100.965 0)
+			(at 231.775 102.235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5061,7 +5125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254.635 95.885 0)
+			(at 231.775 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5072,7 +5136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254.635 95.885 0)
+			(at 231.775 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5083,7 +5147,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 254.635 95.885 0)
+			(at 231.775 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5099,7 +5163,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR025")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -5117,7 +5181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "233ce192-daf9-44f3-9671-654a0f508dae")
-		(property "Reference" "C12"
+		(property "Reference" "C1"
 			(at 57.785 78.1112 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5181,7 +5245,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C12")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -5189,7 +5253,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 251.46 81.915 0)
+		(at 228.6 83.185 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5199,8 +5263,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25f9578f-b51d-46a5-9e1c-aebd87bd7d6f")
-		(property "Reference" "R29"
-			(at 249.555 80.01 0)
+		(property "Reference" "R14"
+			(at 226.695 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5211,7 +5275,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 249.555 82.55 0)
+			(at 226.695 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5222,7 +5286,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 251.46 81.915 0)
+			(at 228.6 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5233,7 +5297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 81.915 0)
+			(at 228.6 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5244,7 +5308,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 251.46 81.915 0)
+			(at 228.6 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5263,7 +5327,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R29")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -5280,7 +5344,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2904d5e8-ae2d-4c37-8a82-925450de2535")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 187.96 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5342,7 +5406,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -5360,7 +5424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a8688d1-5950-486a-9517-1740e3b89e0e")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 65.405 111.1249 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5424,7 +5488,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -5442,7 +5506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b526fc6-4103-4887-a10c-0326d7807726")
-		(property "Reference" "C10"
+		(property "Reference" "C9"
 			(at 210.1913 64.135 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5504,7 +5568,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C10")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -5601,7 +5665,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 251.46 77.47 0)
+		(at 228.6 79.375 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5612,8 +5676,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33310f50-aa4f-4200-9d73-f777d72eeace")
-		(property "Reference" "#PWR026"
-			(at 251.46 81.28 0)
+		(property "Reference" "#PWR015"
+			(at 228.6 83.185 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5624,7 +5688,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 251.46 73.025 0)
+			(at 228.6 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5634,7 +5698,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 77.47 0)
+			(at 228.6 79.375 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5645,7 +5709,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 77.47 0)
+			(at 228.6 79.375 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5656,7 +5720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 251.46 77.47 0)
+			(at 228.6 79.375 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5672,7 +5736,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR026")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -5690,7 +5754,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "361afda0-82a3-49e1-b11b-70d1e684c51c")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR010"
 			(at 186.055 154.305 0)
 			(hide yes)
 			(show_name no)
@@ -5750,7 +5814,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR027")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -5768,7 +5832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "395d8241-fdb2-49eb-a4e7-17fdef03b93d")
-		(property "Reference" "R34"
+		(property "Reference" "R11"
 			(at 229.87 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5832,7 +5896,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R34")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -5849,7 +5913,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a289332-641c-4a01-a3c2-db484d9dbd65")
-		(property "Reference" "C9"
+		(property "Reference" "C5"
 			(at 176.53 56.515 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5913,7 +5977,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C9")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -5931,7 +5995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a42e44b-57f5-4970-a9ea-2376668ed169")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 57.785 83.8262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5995,7 +6059,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6013,7 +6077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3cabad31-7dfd-4150-9977-a65336556658")
-		(property "Reference" "R36"
+		(property "Reference" "R1"
 			(at 139.065 125.095 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6077,7 +6141,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R36")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -6095,7 +6159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cfcd635-05c5-4b70-abca-24fb5b2336be")
-		(property "Reference" "R15"
+		(property "Reference" "R7"
 			(at 201.93 42.5449 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6159,7 +6223,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R15")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6176,7 +6240,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4180d437-cd32-4c6b-86f1-42ad52648f51")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR06"
 			(at 143.51 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -6236,7 +6300,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR030")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -6254,7 +6318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "422e5ecb-9430-4964-ab72-6b855f5c7210")
-		(property "Reference" "R35"
+		(property "Reference" "R8"
 			(at 225.425 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6318,7 +6382,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R35")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -6326,7 +6390,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 250.19 89.535 0)
+		(at 227.33 90.805 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6337,8 +6401,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "425db64e-a535-458e-8275-fa417b9974a8")
-		(property "Reference" "C20"
-			(at 252.73 88.2712 0)
+		(property "Reference" "C16"
+			(at 229.87 89.5412 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6349,7 +6413,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 252.73 90.8112 0)
+			(at 229.87 92.0812 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6360,7 +6424,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 250.19 89.535 0)
+			(at 227.33 90.805 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6371,7 +6435,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 89.535 0)
+			(at 227.33 90.805 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6382,7 +6446,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 250.19 89.535 0)
+			(at 227.33 90.805 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6401,7 +6465,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C20")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6419,7 +6483,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ff9bb21-33ca-433b-a324-be3571db46d1")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 46.99 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6478,7 +6542,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -6495,7 +6559,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51bb83c0-ceed-4750-8f34-af2b6e8bb210")
-		(property "Reference" "R30"
+		(property "Reference" "R2"
 			(at 160.655 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6559,7 +6623,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R30")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6597,7 +6661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IDQH:IQDH35N03LM5ATMA1"
+		(property "Footprint" "Footprints:IFX-PG-TTFN-9-2-V"
 			(at 227.33 45.085 0)
 			(hide yes)
 			(show_name no)
@@ -6678,7 +6742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53fa0c03-5b01-4e88-b54e-f76182cf0654")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 45.72 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6746,7 +6810,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6764,7 +6828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "569d4413-00f1-4c97-a459-20f6434378ec")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 250.19 39.3699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6828,7 +6892,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -6846,7 +6910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5790c35a-9b1a-4615-bb48-dd2a0965281a")
-		(property "Reference" "R12"
+		(property "Reference" "R4"
 			(at 184.15 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6910,7 +6974,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R12")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -6928,7 +6992,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e24a087-d001-4632-bd16-8d254befcd4f")
-		(property "Reference" "C25"
+		(property "Reference" "C13"
 			(at 217.17 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6992,7 +7056,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C25")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7010,7 +7074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63374c81-2bc8-4e9f-8b09-bf4eb37b9223")
-		(property "Reference" "R14"
+		(property "Reference" "R6"
 			(at 194.31 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7074,7 +7138,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R14")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -7091,7 +7155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63a937bb-11f8-4b94-988a-b0611a93a358")
-		(property "Reference" "TH4"
+		(property "Reference" "TH1"
 			(at 147.32 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7155,7 +7219,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "TH4")
+					(reference "TH1")
 					(unit 1)
 				)
 			)
@@ -7173,7 +7237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6624a559-ac23-4bba-a0b0-50d148f9fa25")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR03"
 			(at 60.325 97.155 0)
 			(hide yes)
 			(show_name no)
@@ -7233,7 +7297,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR013")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -7251,7 +7315,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e6277c8-5034-45aa-81ff-31550751f6e9")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR011"
 			(at 208.915 112.395 0)
 			(hide yes)
 			(show_name no)
@@ -7311,7 +7375,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR034")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -7329,7 +7393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f12137a-e9fc-49fe-884b-9fb665ef79ff")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR04"
 			(at 62.865 123.825 0)
 			(hide yes)
 			(show_name no)
@@ -7389,7 +7453,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR015")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -7407,7 +7471,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "719fd9ad-547a-4267-a66b-0625d1570083")
-		(property "Reference" "R33"
+		(property "Reference" "R10"
 			(at 229.87 121.285 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7471,7 +7535,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R33")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7489,7 +7553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e473cf6-e286-4f4b-8be8-9f496e66e73f")
-		(property "Reference" "C11"
+		(property "Reference" "C14"
 			(at 229.8763 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7551,7 +7615,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C11")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -7568,7 +7632,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "821c504b-9b57-4d64-a384-799d6a7d5813")
-		(property "Reference" "C28"
+		(property "Reference" "C8"
 			(at 207.645 106.045 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7632,7 +7696,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C28")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -7650,7 +7714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86a33fed-c661-4e8d-b602-538b3d570057")
-		(property "Reference" "C22"
+		(property "Reference" "C10"
 			(at 219.075 118.745 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7714,7 +7778,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C22")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -7732,7 +7796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b1fe7a9-ba9e-4435-b960-8cd6f9841bc2")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR01"
 			(at 57.15 109.855 0)
 			(hide yes)
 			(show_name no)
@@ -7792,7 +7856,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR014")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7810,7 +7874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c6e4c3e-21c2-405e-9fa2-ffbc40bf624e")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 241.3 31.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7896,7 +7960,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -7914,7 +7978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9830fd24-7815-4d38-ad5a-964655e34862")
-		(property "Reference" "R17"
+		(property "Reference" "R13"
 			(at 241.3 40.0049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7978,7 +8042,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R17")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -7996,7 +8060,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "996b9605-b829-4f1c-ac95-3211569180da")
-		(property "Reference" "C24"
+		(property "Reference" "C12"
 			(at 217.17 131.445 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8060,7 +8124,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C24")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8203,88 +8267,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 243.205 101.6 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a95c3779-6b1c-4888-b45d-a5a8f38e4a10")
-		(property "Reference" "C21"
-			(at 240.665 100.3362 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 240.665 102.8762 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 243.205 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.205 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 243.205 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7b574458-19d1-475a-9c51-d0ac1146cd8a")
-		)
-		(pin "1"
-			(uuid "c51951cb-e72d-40ee-a6fb-07b046e5774a")
-		)
-		(instances
-			(project "BMS-V1"
-				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 227.965 116.84 270)
 		(mirror x)
@@ -8296,7 +8278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b69466eb-d62c-40fa-9f26-e4613a52cd0a")
-		(property "Reference" "R32"
+		(property "Reference" "R9"
 			(at 229.87 114.935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8360,7 +8342,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R32")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8378,7 +8360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c04145d0-efa3-4be5-87dc-b29d6f414dc0")
-		(property "Reference" "R31"
+		(property "Reference" "R3"
 			(at 164.465 142.875 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8442,7 +8424,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "R31")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8460,7 +8442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6ecaf50-d170-4526-ad26-1a8ddce41902")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 46.99 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8519,7 +8501,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -8537,7 +8519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db7ab8bf-6dc0-4373-bdff-ed5604219e86")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR02"
 			(at 60.325 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -8597,7 +8579,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR012")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8615,7 +8597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dba0eb0d-6ea3-44de-8b22-73f04f362003")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR013"
 			(at 238.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8675,7 +8657,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR011")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -8694,7 +8676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddb715a1-ceaf-437c-bbb2-65aa50c8f161")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR012"
 			(at 229.235 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -8754,7 +8736,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR028")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -8771,7 +8753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dedc9204-acb2-4367-a42f-29fceb762b67")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR08"
 			(at 168.275 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8831,86 +8813,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 243.205 106.68 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0a8a9d8-1332-4fab-b434-4758dc4f1256")
-		(property "Reference" "#PWR032"
-			(at 243.205 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 243.205 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 243.205 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.205 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.205 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bae5ba28-07ca-4146-b1c2-e0cf2b80b137")
-		)
-		(instances
-			(project "BMS-V1"
-				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR032")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8928,7 +8831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6db6661-2b70-40af-a262-10ee5221c2ca")
-		(property "Reference" "C7"
+		(property "Reference" "C3"
 			(at 167.64 57.1562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8992,7 +8895,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C7")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -9010,7 +8913,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9a21d16-efbc-455e-bdba-9f32b0b625d5")
-		(property "Reference" "C23"
+		(property "Reference" "C11"
 			(at 218.44 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9074,7 +8977,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C23")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -9091,7 +8994,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f382bc78-7fd8-41bf-aac8-619aa5c3477b")
-		(property "Reference" "C26"
+		(property "Reference" "C4"
 			(at 171.45 130.175 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9155,7 +9058,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "C26")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -9173,7 +9076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3d4c751-3090-4187-9212-4f5d0ef86ac1")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR09"
 			(at 181.61 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9233,7 +9136,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR031")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9251,7 +9154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fabcdf47-661c-4bf8-b969-b0eae9109917")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR07"
 			(at 164.465 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -9311,7 +9214,7 @@
 		(instances
 			(project "BMS-V1"
 				(path "/af61d3c4-26ca-4b26-ba66-3b77bf1e214e"
-					(reference "#PWR010")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
