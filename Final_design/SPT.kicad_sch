@@ -17,6 +17,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.175 121.285) (xy 135.255 121.285)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26868cc9-f7f8-4894-ab51-0002dccd4b30")
+	)
+	(wire
+		(pts
 			(xy 148.59 84.455) (xy 148.59 88.9)
 		)
 		(stroke
@@ -24,6 +34,26 @@
 			(type default)
 		)
 		(uuid "2d7b854e-24ac-4567-9dbf-1a160a108331")
+	)
+	(wire
+		(pts
+			(xy 130.175 92.71) (xy 135.255 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b361ada-38d0-4988-9387-a08a894d13ab")
+	)
+	(wire
+		(pts
+			(xy 130.175 97.79) (xy 135.255 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d74856b-e656-492c-89b0-da5e65d0e961")
 	)
 	(wire
 		(pts
@@ -37,43 +67,53 @@
 	)
 	(wire
 		(pts
-			(xy 130.175 102.87) (xy 136.525 102.87)
+			(xy 130.175 90.17) (xy 135.255 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "628393dd-9431-4325-b4d8-90c5ce1f1208")
+		(uuid "98bc5c19-decb-4cdc-8a8c-7746a0724ded")
 	)
 	(wire
 		(pts
-			(xy 130.175 92.71) (xy 136.525 92.71)
+			(xy 130.175 106.045) (xy 135.255 106.045)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6eb01236-1a6d-4676-b3b8-27499a392cee")
+		(uuid "ac297b56-6e42-412c-a22c-22fa0589f34c")
 	)
 	(wire
 		(pts
-			(xy 130.175 97.79) (xy 136.525 97.79)
+			(xy 130.175 95.25) (xy 135.255 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74522653-dfbf-4b97-ae1c-7d208ffc0ce2")
+		(uuid "ad07d5fe-cfc4-45c6-a1c2-c71ca18f2e84")
 	)
 	(wire
 		(pts
-			(xy 130.175 95.25) (xy 136.525 95.25)
+			(xy 130.175 111.125) (xy 135.255 111.125)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b8be7bec-dd03-431c-b497-c961fc9b1392")
+		(uuid "c371dc5e-26b9-4b3b-90fa-daad2bf88b05")
+	)
+	(wire
+		(pts
+			(xy 130.175 108.585) (xy 135.255 108.585)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb532861-ebdd-4c92-984e-e0affb7f5b80")
 	)
 	(wire
 		(pts
@@ -87,13 +127,13 @@
 	)
 	(wire
 		(pts
-			(xy 130.175 90.17) (xy 136.525 90.17)
+			(xy 130.175 116.205) (xy 135.255 116.205)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e231faac-98d9-4262-9bb7-cf44b86dd81c")
+		(uuid "d7ab9dfc-a82d-4f4f-a34b-6120f188dd95")
 	)
 	(wire
 		(pts
@@ -107,13 +147,23 @@
 	)
 	(wire
 		(pts
-			(xy 130.175 100.33) (xy 136.525 100.33)
+			(xy 130.175 118.745) (xy 135.255 118.745)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3a9c511-8bcc-4d85-82fe-db85ad562621")
+		(uuid "f3cfee55-d384-45dd-9749-ebc453c4c867")
+	)
+	(wire
+		(pts
+			(xy 130.175 113.665) (xy 135.255 113.665)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f65c12d8-9d9c-43d1-84fa-8690a6005922")
 	)
 	(sheet
 		(at 160.02 89.535)
@@ -251,7 +301,7 @@
 	)
 	(sheet
 		(at 113.665 88.9)
-		(size 16.51 15.24)
+		(size 16.51 36.195)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -277,7 +327,7 @@
 			)
 		)
 		(property "Sheetfile" "Motor.kicad_sch"
-			(at 113.665 104.7246 0)
+			(at 113.665 125.6796 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -288,49 +338,9 @@
 				(justify left top)
 			)
 		)
-		(pin "PWM1-PB3" output
-			(at 130.175 100.33 0)
-			(uuid "f52b88d4-49d5-4bb2-a5a9-f1e0d3acf13f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "PWM2-PD5" output
-			(at 130.175 102.87 0)
-			(uuid "a7527117-357b-4736-aef5-0c53dd40c8b5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "LIN1-PC2" output
-			(at 130.175 90.17 0)
-			(uuid "87559747-62c5-4eb7-9783-8022f783a016")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "LIN3-PC4" output
-			(at 130.175 95.25 0)
-			(uuid "fbaee383-20ce-4d7e-a2a5-6053fcab4213")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "LIN2-PC3" output
+		(pin "LIN2-PC3" input
 			(at 130.175 92.71 0)
-			(uuid "0937812b-f07d-4a11-a4fa-713d29c54e0c")
+			(uuid "fe8d0d19-dc66-4798-a92d-3d9095f014f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -338,9 +348,99 @@
 				(justify right)
 			)
 		)
-		(pin "LIN4-PC5" output
+		(pin "PWM2-PD5" input
+			(at 130.175 95.25 0)
+			(uuid "7a1d30e9-f201-42de-85e9-bd70635dfe4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LIN1-PC2" input
+			(at 130.175 90.17 0)
+			(uuid "5f03dec4-b291-4340-8cf6-97db176135e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM1-PB3" input
 			(at 130.175 97.79 0)
-			(uuid "7558e4e9-dc52-4a8b-ac36-22ecdeb041f9")
+			(uuid "255887b1-4c19-4c78-8deb-69bc56d88629")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CLOCK" input
+			(at 130.175 106.045 0)
+			(uuid "12798aac-66d7-419e-bbe4-5ddd58d67471")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CONTROL" input
+			(at 130.175 108.585 0)
+			(uuid "7b819f01-d410-4fb3-aa7c-452613d63c34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HALF" input
+			(at 130.175 111.125 0)
+			(uuid "fc934f85-f6f7-420e-b36c-0c772c6b4ff8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CW" input
+			(at 130.175 113.665 0)
+			(uuid "79029635-5b64-40e1-915d-039e49116adb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ENABLE" input
+			(at 130.175 116.205 0)
+			(uuid "6caabd31-0642-44dd-a2fe-a4ed6822afa4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HOME" output
+			(at 130.175 121.285 0)
+			(uuid "99dbcefb-cf61-4110-86d3-80116c5c1ac4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RESET_STEP" input
+			(at 130.175 118.745 0)
+			(uuid "cfdf2956-dd02-4ba5-8c20-fdd53b78f503")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -357,8 +457,8 @@
 		)
 	)
 	(sheet
-		(at 136.525 88.9)
-		(size 20.32 15.875)
+		(at 135.255 88.9)
+		(size 21.59 36.83)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -373,7 +473,7 @@
 		)
 		(uuid "a7c6bfea-f52d-498d-b3a6-af63ada087cf")
 		(property "Sheetname" "MCU"
-			(at 136.525 88.1884 0)
+			(at 135.255 88.1884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -384,7 +484,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 136.525 105.3596 0)
+			(at 135.255 126.3146 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -435,9 +535,9 @@
 				(justify right)
 			)
 		)
-		(pin "PWM1-PB3" input
-			(at 136.525 100.33 180)
-			(uuid "263b060c-88ef-4d8e-80dd-055c54bd5716")
+		(pin "PWM2-PD5" output
+			(at 135.255 95.25 180)
+			(uuid "87c67db4-7158-424c-83c3-ab5746a474a3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -445,9 +545,9 @@
 				(justify left)
 			)
 		)
-		(pin "LIN4-PC5" input
-			(at 136.525 97.79 180)
-			(uuid "cea65ba1-bc91-4543-b298-eda82b020785")
+		(pin "LIN1-PC2" output
+			(at 135.255 90.17 180)
+			(uuid "84bf3908-7eaf-4b0a-93ae-e6d53199bf8e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -455,9 +555,9 @@
 				(justify left)
 			)
 		)
-		(pin "LIN1-PC2" input
-			(at 136.525 90.17 180)
-			(uuid "191a0e87-378e-4779-9556-252df4334004")
+		(pin "PWM1-PB3" output
+			(at 135.255 97.79 180)
+			(uuid "cb09a715-c33e-43ff-b93f-987626c9b917")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -465,9 +565,9 @@
 				(justify left)
 			)
 		)
-		(pin "LIN3-PC4" input
-			(at 136.525 95.25 180)
-			(uuid "8bb9bfa9-fd6a-452b-b6d9-066e0cbb4eb7")
+		(pin "LIN2-PC3" output
+			(at 135.255 92.71 180)
+			(uuid "32408f29-f81f-4e6e-ae49-2789105d9772")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -475,9 +575,9 @@
 				(justify left)
 			)
 		)
-		(pin "PWM2-PD5" input
-			(at 136.525 102.87 180)
-			(uuid "76a565ae-3631-41f7-99af-3c2a97f217c8")
+		(pin "CW" output
+			(at 135.255 113.665 180)
+			(uuid "c3c5eebb-a061-4633-9120-378a2db2f23e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -485,9 +585,59 @@
 				(justify left)
 			)
 		)
-		(pin "LIN2-PC3" input
-			(at 136.525 92.71 180)
-			(uuid "3dd6ffb8-51e2-4dff-89fc-5ce64e9a5faa")
+		(pin "ENABLE" output
+			(at 135.255 116.205 180)
+			(uuid "b7aac6a2-a27c-4e98-b6d2-937f01d59e6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLOCK" output
+			(at 135.255 106.045 180)
+			(uuid "9eed6be2-e21d-4ee5-a00f-d83a020d7678")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CONTROL" output
+			(at 135.255 108.585 180)
+			(uuid "f9b27361-5c28-439b-8213-ca506e91a408")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HALF" output
+			(at 135.255 111.125 180)
+			(uuid "98e31fc6-03fc-4e6f-b823-9c657940e03f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOME" input
+			(at 135.255 121.285 180)
+			(uuid "6953e7cf-0692-4144-b851-84c2c760e27f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RESET_STEP" output
+			(at 135.255 118.745 180)
+			(uuid "89485d74-cfaf-4b1c-a508-065eb9ba7225")
 			(effects
 				(font
 					(size 1.27 1.27)
