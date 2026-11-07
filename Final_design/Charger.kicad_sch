@@ -3254,7 +3254,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 98.425) (xy 149.86 98.425)
+			(xy 125.095 98.425) (xy 158.75 98.425)
 		)
 		(stroke
 			(width 0)
@@ -3341,16 +3341,6 @@
 			(type default)
 		)
 		(uuid "2904772e-8a88-496a-ac87-c8163a1c8ac8")
-	)
-	(wire
-		(pts
-			(xy 152.4 98.425) (xy 152.4 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b608c45-ee24-4b85-9468-7ac31902250c")
 	)
 	(wire
 		(pts
@@ -3604,16 +3594,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 98.425) (xy 158.75 98.425)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50029c24-2570-43f2-8c58-4d1880b273e0")
-	)
-	(wire
-		(pts
 			(xy 121.285 98.425) (xy 121.285 99.695)
 		)
 		(stroke
@@ -3671,16 +3651,6 @@
 			(type default)
 		)
 		(uuid "5bb46520-3e4f-4e13-aa24-1408972e4a1d")
-	)
-	(wire
-		(pts
-			(xy 149.86 101.6) (xy 149.86 98.425)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e8fc8e6-0761-4997-b61b-cdfabbae33b2")
 	)
 	(wire
 		(pts
@@ -6211,88 +6181,6 @@
 			(project "SPT"
 				(path "/c735d36e-c510-4f8f-a24e-cf38daa98b7d/30d3b64a-2cdb-467f-a498-c7003ef0fde9"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 149.86 106.68 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "568b08fe-072b-43b7-beba-7f56d2928883")
-		(property "Reference" "J2"
-			(at 153.67 104.7749 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 153.67 107.3149 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 149.86 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 149.86 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fbbe0a7d-a5f4-4715-a066-8b1725bddcd5")
-		)
-		(pin "2"
-			(uuid "bdf882c2-68c5-4443-8cdd-d1ab941479a3")
-		)
-		(instances
-			(project "SPT"
-				(path "/c735d36e-c510-4f8f-a24e-cf38daa98b7d/30d3b64a-2cdb-467f-a498-c7003ef0fde9"
-					(reference "J2")
 					(unit 1)
 				)
 			)

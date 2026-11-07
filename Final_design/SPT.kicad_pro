@@ -198,7 +198,8 @@
         0.2,
         0.3,
         0.4,
-        0.6
+        0.6,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -653,7 +654,7 @@
         "uuid": "c735d36e-c510-4f8f-a24e-cf38daa98b7d"
       }
     ],
-    "used_designators": "J2,J5-7,J11-16,R10-13,R21-22,R28,R44-49,D10,D13-19,#PWR1-2,#PWR9,#PWR23,#PWR25-28,#PWR33,#PWR36-37,#PWR40-41,#PWR49-50,#PWR54,#PWR61,#PWR63-64,#PWR70,#PWR72,#PWR76-100,M2,U2,U5,U7-10,C15,C41-50,SW1",
+    "used_designators": "#PWR91-94,#PWR101-106",
     "variants": []
   },
   "sheets": [

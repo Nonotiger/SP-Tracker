@@ -3602,7 +3602,7 @@
 	)
 	(text "Must be changed as IR2010 requires 10V min"
 		(exclude_from_sim no)
-		(at 85.725 21.59 0)
+		(at 83.185 22.225 0)
 		(effects
 			(font
 				(size 1.27 1.27)
